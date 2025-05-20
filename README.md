@@ -23,4 +23,7 @@ https://www.minecraft.net/en-us/download/server/bedrock
 
 worlds
 
-apaga as coisa aqui e coloca o mapa e os pack que tudo funciona 
+apaga as coisa aqui e coloca o mapa e os pack que tudo funciona
+
+eu uso o Open Game Panel (eu ajudei a fazer este suporte funcionar e o icones) 
+![image](https://github.com/user-attachments/assets/4b924054-1ce4-40af-82a6-41071a5f4d75)
